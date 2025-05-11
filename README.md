@@ -46,7 +46,7 @@ Um jogo simples de adivinhação entre dois jogadores feito em Swift. Cada jogad
 
 ## 🧪 Exemplo
 
-**Jogador 1** digite aqui sua palavra-chave para o próximo jogador adivinhar: `banana`
+**Jogador 1** digite aqui sua palavra-chave para o próximo jogador adivinhar: `banana` <br>
 **Jogador 2** digite aqui sua palavra-chave para o próximo jogador adivinhar: `abacate`
 
 `------------------------ HORA DE ADIVINHAR ------------------------`
