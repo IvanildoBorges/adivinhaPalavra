@@ -84,7 +84,7 @@ Ao final da partida, o usuário pode optar por:
 
 ## 🧑‍💻 Autor
 
-Desenvolvido por [Ivanildo Borges]([https://appkanban.netlify.app](https://www.linkedin.com/in/IvanildoBorges/)).
+Desenvolvido por [Ivanildo Borges](https://www.linkedin.com/in/IvanildoBorges/).
 
 ---
 
